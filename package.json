@@ -1,0 +1,19 @@
+{
+  "name": "image-processing",
+  "version": "1.0.0",
+  "description": "image processing module",
+  "main": "inImageText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohan D",
+  "license": "MIT",
+  "dependencies": {
+    "convert-csv-to-json": "0.0.15",
+    "express": "^4.17.1",
+    "jimp": "^0.9.3",
+    "jimpfont": "0.0.6",
+    "mongoose": "^5.8.4",
+    "twilio": "^3.39.1"
+  }
+}

@@ -1,0 +1,6 @@
+node_modules
+input_post_cards/
+output_pdf_cards/
+output_post_cards/
+input.csv
+package-lock.json
